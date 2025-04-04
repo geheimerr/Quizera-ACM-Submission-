@@ -1,0 +1,19 @@
+[
+  {
+    "type": "multiple-choice",
+    "question": "What is Redis used for?",
+    "options": ["Database", "Cache", "Message Broker ", "All of the above"],
+    "correctAnswer": 3
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is zero indexing?",
+    "options": ["An indexing system where counting starts from 1", "An indexing system where counting starts from 0", "A system where indexes are dynamically assigned", "A system where negative indexes are not allowed"],
+    "correctAnswer": 1
+  },
+  {
+    "type": "subjective",
+    "question": "Write the full form of HTML.",
+    "sampleAnswer": "Hyper Text Markup Language"
+  }
+]
